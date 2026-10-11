@@ -1,0 +1,7 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+lightgbm==4.5.0
+rapidfuzz==3.9.6
+anyascii==0.3.2
+joblib==1.4.2
